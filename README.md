@@ -1,16 +1,27 @@
-### Hi there 👋
+### Olá, eu sou Carlos 😎🤙🏼<br/><br/>
 
-<!--
-**Carlos-Eduardo-Ribeiro/Carlos-Eduardo-Ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="420px" align="right" alt="Computador iuriCode">
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Eduardo-Ribeiro&layout=compact&theme=dark)](https://github.com/Carlos-Eduardo-Ribeiro/github-readme-stats)<br/><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-Eduardo-Ribeiro&show_icons=true&theme=dark)
+
+### Tecnologias:
+
+<div style="display: inline_block">
+<img aling="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img aling="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img aling="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+</div>
+
+### Contatos:
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](carlos.eduardo.rb18@gmail.com) [![Email](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlos_eduardo18_)
+[![Email](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/carlos-eduardo-7426862a1)<br/>
+
+</head>
+<body>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=37517e&height=120&section=footer"/>
+</body>
+</html>
+
+
