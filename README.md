@@ -1,8 +1,8 @@
 ### Olá, eu sou Carlos 😎🤙🏼<br/><br/>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="420px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="300px" align="right" alt="Computador iuriCode">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Eduardo-Ribeiro&layout=compact&theme=dark)](https://github.com/Carlos-Eduardo-Ribeiro/github-readme-stats)<br/><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Eduardo-Ribeiro&layout=compact&theme=dark)](https://github.com/Carlos-Eduardo-Ribeiro/github-readme-stats)<br/>
 
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-Eduardo-Ribeiro&show_icons=true&theme=dark)
 
