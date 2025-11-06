@@ -1,4 +1,4 @@
-## **Olá, amante de dados!** 😎📊
+## 🧠 **Carlos Eduardo Ribeiro - Data Analyst**
 
 Sou Carlos Eduardo Ribeiro, tenho 23 anos e sou pernambucano, com muito orgulho. Sou graduando em Ciência da Computação pela UFRPE, com experiência em Análise de Dados, utilizando Excel, Python, Power BI, SQL e outras ferramentas. Atuei no mercado e como freelancer, aplicando boas práticas para transformar dados em insights e apoiar a tomada de decisões em diferentes áreas de negócio.
 
