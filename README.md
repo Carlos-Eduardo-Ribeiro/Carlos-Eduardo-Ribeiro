@@ -31,7 +31,6 @@ _Fev/2024 – Abr/2024_
 - Trabalho em equipe  
 - Organização  
 - Resolução de problemas  
-- Adaptabilidade  
 
 ## ⚙️ Hard Skills  
 - Estatística  
@@ -39,7 +38,6 @@ _Fev/2024 – Abr/2024_
 - Visualização de dados  
 - Processos ETL  
 - Desenvolvimento  
-- Versionamento de código (Git/GitHub)  
 
 ## 🔗 Vamos nos conectar?  
 
